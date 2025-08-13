@@ -1,0 +1,16 @@
+# Theos build output
+.build/
+obj/
+obj-*
+packages/
+.theos/
+.deps/
+
+# macOS / iOS junk
+.DS_Store
+._*
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
