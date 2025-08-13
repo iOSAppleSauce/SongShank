@@ -1,0 +1,9 @@
+Package: cum.over.songshank
+Name: SongShank
+Version: 0.1.0
+Architecture: iphoneos-arm
+Description: Auto-flips copied/shared music links into a universal song.link page (Songwhip fallback). Fast • private • zero taps.
+Maintainer: iOSAppleSauce
+Author: iOSAppleSauce
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader
