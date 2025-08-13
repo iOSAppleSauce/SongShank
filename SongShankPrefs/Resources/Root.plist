@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+ <key>Title</key><string>SongShank</string>
+ <key>PreferenceSpecifiers</key>
+ <array>
+  <dict>
+   <key>Type</key><string>PSGroupSpecifier</string>
+   <key>Title</key><string>SongShank</string>
+   <key>FooterText</key>
+   <string>Auto-build a universal Song.link page for any copied/shared track. Songwhip fallback. Fast • Private • Zero taps.</string>
+   <key>icon</key><string>icon.png</string>
+  </dict>
+
+  <dict><key>Type</key><string>PSSwitchSpecifier</string>
+        <key>Title</key><string>Enabled</string>
+        <key>Key</key><string>Enabled</key>
+        <key>DefaultValue</key><true/>
+        <key>Defaults</key><string>cum.over.songshank</string></dict>
+
+  <dict><key>Type</key><string>PSButtonSpecifier</string>
+        <key>Title</key><string>Respring</string>
+        <key>Action</key><string>respring</string></dict>
+ </array>
+</dict></plist>

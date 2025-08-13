@@ -1,0 +1,10 @@
+{
+    entry = {
+        bundle = "SongShankPrefs";
+        cell = "PSLinkCell";
+        detail = "SSRootListController";
+        isController = 1;
+        label = "SongShank";
+        icon = "icon@2x.png";
+    };
+}
