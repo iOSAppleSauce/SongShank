@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/iconx3.png" width="220">
+  <img src="assets/icon@x3.png" width="220">
 </p>
 
 # SongShank
