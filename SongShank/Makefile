@@ -1,4 +1,3 @@
-export THEOS=/var/theos
 ARCHS = arm64
 TARGET := iphone:clang:latest:14.0
 THEOS_PACKAGE_SCHEME = rootless
