@@ -1,4 +1,4 @@
-# --- Theos bootstrap (edit THEOS if installed elsewhere) ---
+# Theos bootstrap
 THEOS ?= $(HOME)/theos
 export THEOS
 
@@ -11,5 +11,5 @@ include $(THEOS)/makefiles/common.mk
 SUBPROJECTS += SongShank
 SUBPROJECTS += SongShankPrefs
 
-# Explicit include so it never resolves to /aggregate.mk
+# Explicit include (don’t rely on THEOS_MAKE_PATH here)
 include $(THEOS)/makefiles/aggregate.mk
