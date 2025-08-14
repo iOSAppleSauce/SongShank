@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/songshank-logo.png" alt="SongShank logo" width="220">
+</p>
+
 # SongShank
 
 **A zero‑tap way to share the same song across all streaming apps.**  
